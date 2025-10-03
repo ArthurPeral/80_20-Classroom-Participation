@@ -35,7 +35,7 @@ Most students participated less than 10 times, while a small group contributed m
 ---
 
 ### Pareto Curve (Overall)  
-We see the **80/20 effect**, even more inequal: roughly **15% of students account for 80% of participation** or **20% of students account for 90% of participation**
+Participation is highly unequal: with roughly **15% of students** consituting **80% of participation**  or **20% of students accounting for 90% of participation**
 
 ![Pareto](graphs/pareto_curve.png)  
 
@@ -58,7 +58,7 @@ Some subjects show higher participation than others, with **Subject_1** leading 
 ## 📝 Conclusion  
 - Participation is **not equal**.  
 - A minority of students consistently dominate classroom discussions.  
-- This project validates that the **80/20 rule applies in classroom participation**.  
+- This project show a pattern stronger than **80/20 rule**, a 15/80 or 20/90.  
 
 ---
 
