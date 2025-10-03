@@ -4,7 +4,7 @@
 This project investigates classroom participation inequality through the **80/20 principle**.  
 Inspired by Richard Koch’s *80/20 Principle*, which suggests that 80% of outcomes often come from 20% of inputs, I wanted to test if classroom participation follows the same pattern.  
 
-Over ** 82 hours**, I tracked participation across **62 students** and **4 subjects**, totaling 1105 participation.
+Over **82 hours**, I tracked participation across **62 students** and **4 subjects**, totaling 1105 participation.
 What constitute as a participation ?
 -> any voluntary intervention whether asking a question, answering a question, or participating in a debate
 
@@ -28,7 +28,7 @@ What constitute as a participation ?
 ### Histogram of Student Totals  
 Most students participated less than 10 times, while a small group contributed much more.  
 
-![Histogram](graphs/histogram_totals.png)  
+![Histogram](graphs/participation_per_student.png)  
 
 ---
 
@@ -49,7 +49,7 @@ The Gini coefficient of **0.84** confirms strong inequality in participation.
 ### Participation by Subject  
 Some subjects show higher participation than others, with **Subject_1** leading and **Subject_2** lowest.  
 
-![Bar Chart](graphs/bar_subjects.png)  
+![Bar Chart](graphs/total_per_subject.png)  
 
 ---
 
