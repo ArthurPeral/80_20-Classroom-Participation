@@ -4,7 +4,7 @@
 This project investigates classroom participation inequality through the **80/20 principle**.  
 Inspired by Richard Koch’s *80/20 Principle*, which suggests that 80% of outcomes often come from 20% of inputs, I wanted to test if classroom participation follows the same pattern.  
 
-Over **82 hours**, I tracked participation across **62 students** and **4 subjects**, totaling 1105 participations.
+Over **82 hours**, I tracked participation across **62 students** and **4 subjects**, totaling **1105 participations.**
 
 What constitute as a participation ?
 
@@ -58,7 +58,7 @@ Some subjects show higher participation than others, with **Subject_1** leading 
 ## 📝 Conclusion  
 - Participation is **not equal**.  
 - A minority of students consistently dominate classroom discussions.  
-- This project show a pattern stronger than **80/20 rule**, a 15/80 or 20/90.  
+- This project show a pattern stronger than 80/20 rule, a **15/80 or 20/90**.  
 
 ---
 
