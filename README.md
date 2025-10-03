@@ -30,7 +30,7 @@ What constitute as a participation ?
 ### Histogram of Student Totals  
 Most students participated less than 10 times, while a small group contributed much more.  
 
-![Histogram](graphs/participation_per_student.png)  
+![Histogram](graphs/histogram_student_totals.png)  
 
 ---
 
@@ -51,7 +51,7 @@ The Gini coefficient of **0.84** confirms strong inequality in participation.
 ### Participation by Subject  
 Some subjects show higher participation than others, with **Subject_1** leading and **Subject_2** lowest.  
 
-![Bar Chart](graphs/total_per_subject.png)  
+![Bar Chart](graphs/total_by_subject.png)  
 
 ---
 
