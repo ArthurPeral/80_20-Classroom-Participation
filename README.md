@@ -4,8 +4,10 @@
 This project investigates classroom participation inequality through the **80/20 principle**.  
 Inspired by Richard Koch’s *80/20 Principle*, which suggests that 80% of outcomes often come from 20% of inputs, I wanted to test if classroom participation follows the same pattern.  
 
-Over **82 hours**, I tracked participation across **62 students** and **4 subjects**, totaling 1105 participation.
+Over **82 hours**, I tracked participation across **62 students** and **4 subjects**, totaling 1105 participations.
+
 What constitute as a participation ?
+
 -> any voluntary intervention whether asking a question, answering a question, or participating in a debate
 
 ---
